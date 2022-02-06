@@ -1,5 +1,5 @@
 {
-  "name": "ethers",
+  "name": "Ethereum-wallet",
   "common": {
     "ethereum": "donations.ethers.eth",
     "funding": [
